@@ -39,3 +39,10 @@ Furthermore, the site also places a big emphasis on clarity and usability across
 - Report and Flagging System
   - Report and flag off-topic posts
 - Improved workflows for metadata updates
+
+# Notes
+- The search bar currently only works with exact searches due to computational limitations. I am currently exploring other options to improve this aspect of the site!
+- HSREndgameDB is independently owned and operated and is not affiliated with MiHoYo, Hoyoverse, Cognosphere, or other entities related to the development, management, and/or distribution of Honkai: Star Rail.
+
+# Attributions
+This project is inspired by [pazudora-hensei.com](https://pazudora-hensei.com/) a site for sharing gameplay of the game: "Puzzle and Dragons".
