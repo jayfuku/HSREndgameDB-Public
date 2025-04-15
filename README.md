@@ -1,11 +1,11 @@
 # HSREndgameDB-Public
 Public informational repository for HSREndgameDB, a site to share endgame content clears for Honkai: Star Rail
 
-https://hsr-endgame-db.vercel.app/
+https://HSREndgameDB.info/
 
 # What is HSREndgameDB?
 
-[HSREndgameDB](https://hsr-endgame-db.vercel.app/) is a website designed to allow users to share clears of endgame content in the game "Honkai: Star Rail". Instead of trying to parse through Youtube searches or Reddit, you can now look through HSREndgameDB to find exactly what you want.
+[HSREndgameDB](https://HSREndgameDB.info) is a website designed to allow users to share clears of endgame content in the game "Honkai: Star Rail". Instead of trying to parse through Youtube searches or Reddit, you can now look through HSREndgameDB to find exactly what you want.
 
 HSREndgameDB also preserves data of uploaded clears even after they're gone in the game to act as a sort of archive to get an idea of how the game evolves over time.
 
